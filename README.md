@@ -1,5 +1,7 @@
 # Optimizing-Food-Delivery
-The data scientists at UberEats have a fairly simple goal: getting hot food delivered quickly. Making that happen across the country, though, takes machine learning, advanced statistical modeling and staff meteorologists. In order to optimize the full delivery process, the team has to predict how every possible variable — from storms to holiday rushes — will impact traffic and cooking time.
+The data scientists at UberEats have a fairly simple goal: getting hot food delivered quickly. Making that happen across the country, though, takes machine learning, advanced statistical modeling and staff meteorologists. In order to optimize the full delivery process, the team has to predict how every possible variable — from storms to holiday rushes — will impact traffic and cooking time.'
+
+
 Dataset Link :https://www.kaggle.com/datasets/changlechangsu/india-food-delivery-time-prediction
 ## Step 1: Define Project Scope & Goals
 
