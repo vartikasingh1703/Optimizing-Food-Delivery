@@ -4,6 +4,7 @@ The data scientists at UberEats have a fairly simple goal: getting hot food deli
 
 ## Dataset
 Link :https://www.kaggle.com/datasets/changlechangsu/india-food-delivery-time-prediction
+
 The food delivery industry in India has experienced rapid growth, driven by increasing internet penetration, smartphone usage, and changing consumer lifestyles. Leading platforms like Swiggy, Zomato, and Dunzo dominate the market, offering a wide range of food options from local eateries to premium restaurants. The sector benefits from India's large urban population and rising demand for convenience, though it faces challenges such as intense competition, thin profit margins, and the need for efficient logistics.
 Here is a dataset on food delivery times in India, containing over 40,000 rows of raw, unstructured data with null values—perfect for practice. The goal is to predict the delivery time for each order. This will help delivery personnel understand how quickly they need to complete their runs and provide customers with accurate wait time estimates.
 
